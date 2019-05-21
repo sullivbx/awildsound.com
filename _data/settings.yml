@@ -16,8 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'contact'
       url: '/contact'
-    # - title: 'build'
-    #   url: '/build'
+    - title: 'build'
+       url: '/WebGL_test/'
 
 footer_settings:
   logo_image: 
