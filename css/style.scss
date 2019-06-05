@@ -95,21 +95,24 @@ $error-color: {{ site.data.settings.color_settings.error_color }};
 
 
 .portrait {
-    //display: inline-block;
-    //position: relative;
-    //width: 50%;
-    width: 40%;
-    margin-left: 12%;
-    float: left;
-    padding: 0px;
-    margin-top: 1%;
+    // //display: relative;
+    // //position: relative;
+    // //width: 50%;
+    // width: 50%;
+    // //margin-left: 50%;
+    // //float: center;
+    // text-align: center;
+    // padding: 0px;
+    // margin-top: 1%;
 }
 
 .about {
-    //display: inline-block;
-    //position: relative;;
-    //width: 50%;
-    //float: right;
+    display: relative;
+    float: left;
+    // position: relative;;
+    // width: 50%;
+    // float: right;
+    width: 100%;
 }
 
 .clearfix {
