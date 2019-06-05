@@ -78,7 +78,18 @@ $error-color: {{ site.data.settings.color_settings.error_color }};
 // .apwrap {
 //     text-align: center;
 // }
+.content-title {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
 
+}
+
+.content-description {
+
+    padding-bottom: 80px;
+
+}
 
 
 .portrait {
